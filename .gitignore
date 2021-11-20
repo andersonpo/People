@@ -1,0 +1,6 @@
+﻿API/.vs
+
+[Bb]in/
+[Oo]bj/
+**/coverareport
+**/TestResults
